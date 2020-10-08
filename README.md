@@ -27,7 +27,7 @@ pip install beautifulsoup4
 
 ### non gui.py is non GUI version of app 
 
-(If you dont know tkinter non_gui.py file is easy to understan)
+(If you dont know tkinter non_gui.py file is easy to understand)
 
 
 
