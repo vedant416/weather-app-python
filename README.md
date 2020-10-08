@@ -1,7 +1,7 @@
 # Weather App With GUI Using Python
 
 ## This is simple Web Scraping project using beautifulsoup4 , requests module
-
+![alt text](https://raw.githubusercontent.com/vedant416/weather-app-python/main/OUTPUT.PNG)
 ## Requirements :
 
 #### Python 3 is required.
@@ -27,9 +27,7 @@ pip install beautifulsoup4
 
 ### non gui.py is non GUI version of app 
 
-(If you dont know tkinter non_gui.py file is easy to understand)
-
-
+(If you dont know tkinter non_gui.py file is easy to understan)
 
 
 
