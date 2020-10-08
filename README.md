@@ -19,11 +19,17 @@ pip install beautifulsoup4
 
 #### Open weather folder 
 
-#### Other files in weather folder are required to successfully run program so open weather folder in your IDE and run code.
+#### Other files in weather folder are required to successfully run program so open weather folder in your IDE 
 
-#### Run main.py file for GUIversion of app
+#### Then run main.py or non gui.py.
 
-#### Run non gui.py for non GUI version of app
+### main.py file is GUI version of app
+
+### non gui.py is non GUI version of app 
+
+(If you dont know tkinter non_gui.py file is easy to understand)
+
+
 
 
 
