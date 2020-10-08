@@ -1,6 +1,6 @@
 # Weather App With GUI Using Python
 
-## This is simple Web Scraping project using beautifulsoup4 , requests module
+## This is simple Web Scraping project using beautifulsoup4 and requests module
 ![alt text](https://raw.githubusercontent.com/vedant416/weather-app-python/main/OUTPUT.PNG)
 ## Requirements :
 
